@@ -1,0 +1,4 @@
+C:\Users\elsayeh\Desktop\nwhtml\nwhtml\bin\Release\nw.exe
+C:\Users\elsayeh\Desktop\nwhtml\nwhtml\bin\Release\nw.pdb
+C:\Users\elsayeh\Desktop\nwhtml\nwhtml\obj\x86\Release\nw.exe
+C:\Users\elsayeh\Desktop\nwhtml\nwhtml\obj\x86\Release\nw.pdb
